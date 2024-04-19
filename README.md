@@ -347,4 +347,4 @@ int main() {
 ![image](https://github.com/SudharsanamRK/Ex-1-NFA-to-DFA/assets/115523484/81ce6269-c74a-406e-9f00-f2f8efe8ad24)
 
 # RESULT
-The program was sucessfully converted from NFA to DFA.
+The program successfully completes the conversion of a Non-Deterministic Finite Automaton (NFA) to a Deterministic Finite Automaton (DFA) and displays the DFA transition state table. 
